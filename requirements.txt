@@ -1,0 +1,1 @@
+# No third-party packages required. Windows + Python 3.10+ with tkinter.

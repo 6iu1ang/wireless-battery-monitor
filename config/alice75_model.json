@@ -1,0 +1,1484 @@
+{
+  "model": "LEOBOG Alice 75",
+  "receiver_token": "44c432ec87",
+  "vid": 13652,
+  "pid": 64009,
+  "fw": 24,
+  "matrix_slots": 128,
+  "layers": 4,
+  "led_plane_size": 126,
+  "settings_size": 128,
+  "palette_size": 512,
+  "modes": [
+    {
+      "index": 0,
+      "code": 1,
+      "effect": 1,
+      "speed": false,
+      "brightness": true,
+      "direction": false,
+      "rainbow": true,
+      "color": true,
+      "name": "常亮模式"
+    },
+    {
+      "index": 1,
+      "code": 2,
+      "effect": 3,
+      "speed": true,
+      "brightness": true,
+      "direction": false,
+      "rainbow": true,
+      "color": true,
+      "name": "呼吸模式"
+    },
+    {
+      "index": 2,
+      "code": 3,
+      "effect": 2,
+      "speed": true,
+      "brightness": true,
+      "direction": false,
+      "rainbow": false,
+      "color": false,
+      "name": "梦幻彩虹"
+    },
+    {
+      "index": 3,
+      "code": 4,
+      "effect": 19,
+      "speed": true,
+      "brightness": true,
+      "direction": false,
+      "rainbow": true,
+      "color": true,
+      "name": "一触即发"
+    },
+    {
+      "index": 4,
+      "code": 5,
+      "effect": 15,
+      "speed": true,
+      "brightness": true,
+      "direction": false,
+      "rainbow": true,
+      "color": true,
+      "name": "雨中漫步"
+    },
+    {
+      "index": 5,
+      "code": 6,
+      "effect": 13,
+      "speed": true,
+      "brightness": true,
+      "direction": false,
+      "rainbow": true,
+      "color": true,
+      "name": "彩虹轮盘"
+    },
+    {
+      "index": 6,
+      "code": 7,
+      "effect": 20,
+      "speed": true,
+      "brightness": true,
+      "direction": false,
+      "rainbow": true,
+      "color": true,
+      "name": "涟漪扩散"
+    },
+    {
+      "index": 7,
+      "code": 8,
+      "effect": 16,
+      "speed": true,
+      "brightness": true,
+      "direction": false,
+      "rainbow": true,
+      "color": true,
+      "name": "繁星点点"
+    },
+    {
+      "index": 8,
+      "code": 9,
+      "effect": 18,
+      "speed": true,
+      "brightness": true,
+      "direction": false,
+      "rainbow": true,
+      "color": true,
+      "name": "踏雪无痕"
+    },
+    {
+      "index": 9,
+      "code": 10,
+      "effect": 5,
+      "speed": true,
+      "brightness": true,
+      "direction": false,
+      "rainbow": true,
+      "color": true,
+      "name": "川流不息"
+    },
+    {
+      "index": 10,
+      "code": 11,
+      "effect": 7,
+      "speed": true,
+      "brightness": true,
+      "direction": false,
+      "rainbow": true,
+      "color": true,
+      "name": "随波逐流"
+    },
+    {
+      "index": 11,
+      "code": 12,
+      "effect": 17,
+      "speed": true,
+      "brightness": true,
+      "direction": false,
+      "rainbow": true,
+      "color": true,
+      "name": "如影随形"
+    },
+    {
+      "index": 12,
+      "code": 13,
+      "effect": 12,
+      "speed": true,
+      "brightness": true,
+      "direction": false,
+      "rainbow": true,
+      "color": true,
+      "name": "正弦光波"
+    },
+    {
+      "index": 13,
+      "code": 14,
+      "effect": 8,
+      "speed": true,
+      "brightness": true,
+      "direction": false,
+      "rainbow": true,
+      "color": true,
+      "name": "左右扫描"
+    },
+    {
+      "index": 14,
+      "code": 15,
+      "effect": 28,
+      "speed": true,
+      "brightness": true,
+      "direction": false,
+      "rainbow": false,
+      "color": false,
+      "name": "旋转风车"
+    },
+    {
+      "index": 15,
+      "code": 16,
+      "effect": 30,
+      "speed": true,
+      "brightness": true,
+      "direction": false,
+      "rainbow": false,
+      "color": false,
+      "name": "七彩瀑布"
+    },
+    {
+      "index": 16,
+      "code": 17,
+      "effect": 14,
+      "speed": true,
+      "brightness": true,
+      "direction": false,
+      "rainbow": false,
+      "color": false,
+      "name": "花开富贵"
+    },
+    {
+      "index": 17,
+      "code": 18,
+      "effect": 29,
+      "speed": true,
+      "brightness": true,
+      "direction": false,
+      "rainbow": true,
+      "color": true,
+      "name": "旋转风暴"
+    },
+    {
+      "index": 18,
+      "code": 21,
+      "effect": 0,
+      "speed": false,
+      "brightness": false,
+      "direction": false,
+      "rainbow": false,
+      "color": false,
+      "name": "自定义模式"
+    },
+    {
+      "index": 19,
+      "code": 0,
+      "effect": 0,
+      "speed": false,
+      "brightness": false,
+      "direction": false,
+      "rainbow": false,
+      "color": false,
+      "name": "关闭"
+    }
+  ],
+  "keys": [
+    {
+      "id": 1,
+      "name": "Esc",
+      "rect": [
+        17,
+        23,
+        41,
+        49
+      ],
+      "kind": 2,
+      "vk": 27,
+      "parameter": 0,
+      "slot": 0
+    },
+    {
+      "id": 2,
+      "name": "F1",
+      "rect": [
+        64,
+        24,
+        88,
+        50
+      ],
+      "kind": 2,
+      "vk": 112,
+      "parameter": 0,
+      "slot": 6
+    },
+    {
+      "id": 3,
+      "name": "F2",
+      "rect": [
+        99,
+        25,
+        123,
+        51
+      ],
+      "kind": 2,
+      "vk": 113,
+      "parameter": 0,
+      "slot": 12
+    },
+    {
+      "id": 4,
+      "name": "F3",
+      "rect": [
+        133,
+        28,
+        157,
+        54
+      ],
+      "kind": 2,
+      "vk": 114,
+      "parameter": 0,
+      "slot": 18
+    },
+    {
+      "id": 5,
+      "name": "F4",
+      "rect": [
+        168,
+        33,
+        192,
+        59
+      ],
+      "kind": 2,
+      "vk": 115,
+      "parameter": 0,
+      "slot": 24
+    },
+    {
+      "id": 6,
+      "name": "F5",
+      "rect": [
+        202,
+        38,
+        226,
+        64
+      ],
+      "kind": 2,
+      "vk": 116,
+      "parameter": 0,
+      "slot": 30
+    },
+    {
+      "id": 7,
+      "name": "F6",
+      "rect": [
+        237,
+        45,
+        261,
+        71
+      ],
+      "kind": 2,
+      "vk": 117,
+      "parameter": 0,
+      "slot": 36
+    },
+    {
+      "id": 8,
+      "name": "F7",
+      "rect": [
+        293,
+        45,
+        317,
+        71
+      ],
+      "kind": 2,
+      "vk": 118,
+      "parameter": 0,
+      "slot": 42
+    },
+    {
+      "id": 9,
+      "name": "F8",
+      "rect": [
+        327,
+        38,
+        351,
+        64
+      ],
+      "kind": 2,
+      "vk": 119,
+      "parameter": 0,
+      "slot": 48
+    },
+    {
+      "id": 10,
+      "name": "F9",
+      "rect": [
+        361,
+        32,
+        385,
+        58
+      ],
+      "kind": 2,
+      "vk": 120,
+      "parameter": 0,
+      "slot": 54
+    },
+    {
+      "id": 11,
+      "name": "F10",
+      "rect": [
+        395,
+        28,
+        419,
+        54
+      ],
+      "kind": 2,
+      "vk": 121,
+      "parameter": 0,
+      "slot": 60
+    },
+    {
+      "id": 12,
+      "name": "F11",
+      "rect": [
+        430,
+        25,
+        454,
+        51
+      ],
+      "kind": 2,
+      "vk": 122,
+      "parameter": 0,
+      "slot": 66
+    },
+    {
+      "id": 13,
+      "name": "F12",
+      "rect": [
+        465,
+        23,
+        489,
+        49
+      ],
+      "kind": 2,
+      "vk": 123,
+      "parameter": 0,
+      "slot": 72
+    },
+    {
+      "id": 14,
+      "name": "`",
+      "rect": [
+        39,
+        66,
+        63,
+        92
+      ],
+      "kind": 2,
+      "vk": 192,
+      "parameter": 0,
+      "slot": 1
+    },
+    {
+      "id": 15,
+      "name": "1",
+      "rect": [
+        74,
+        67,
+        98,
+        93
+      ],
+      "kind": 2,
+      "vk": 49,
+      "parameter": 0,
+      "slot": 7
+    },
+    {
+      "id": 16,
+      "name": "2",
+      "rect": [
+        108,
+        69,
+        132,
+        95
+      ],
+      "kind": 2,
+      "vk": 50,
+      "parameter": 0,
+      "slot": 13
+    },
+    {
+      "id": 17,
+      "name": "3",
+      "rect": [
+        142,
+        73,
+        166,
+        99
+      ],
+      "kind": 2,
+      "vk": 51,
+      "parameter": 0,
+      "slot": 19
+    },
+    {
+      "id": 18,
+      "name": "4",
+      "rect": [
+        177,
+        78,
+        201,
+        104
+      ],
+      "kind": 2,
+      "vk": 52,
+      "parameter": 0,
+      "slot": 25
+    },
+    {
+      "id": 19,
+      "name": "5",
+      "rect": [
+        211,
+        84,
+        235,
+        110
+      ],
+      "kind": 2,
+      "vk": 53,
+      "parameter": 0,
+      "slot": 31
+    },
+    {
+      "id": 20,
+      "name": "6",
+      "rect": [
+        245,
+        90,
+        269,
+        116
+      ],
+      "kind": 2,
+      "vk": 54,
+      "parameter": 0,
+      "slot": 37
+    },
+    {
+      "id": 21,
+      "name": "7",
+      "rect": [
+        302,
+        86,
+        326,
+        112
+      ],
+      "kind": 2,
+      "vk": 55,
+      "parameter": 0,
+      "slot": 43
+    },
+    {
+      "id": 22,
+      "name": "8",
+      "rect": [
+        335,
+        80,
+        359,
+        106
+      ],
+      "kind": 2,
+      "vk": 56,
+      "parameter": 0,
+      "slot": 49
+    },
+    {
+      "id": 23,
+      "name": "9",
+      "rect": [
+        370,
+        74,
+        394,
+        100
+      ],
+      "kind": 2,
+      "vk": 57,
+      "parameter": 0,
+      "slot": 55
+    },
+    {
+      "id": 24,
+      "name": "0",
+      "rect": [
+        404,
+        70,
+        428,
+        96
+      ],
+      "kind": 2,
+      "vk": 48,
+      "parameter": 0,
+      "slot": 61
+    },
+    {
+      "id": 25,
+      "name": "-",
+      "rect": [
+        438,
+        67,
+        462,
+        93
+      ],
+      "kind": 2,
+      "vk": 189,
+      "parameter": 0,
+      "slot": 67
+    },
+    {
+      "id": 26,
+      "name": "=",
+      "rect": [
+        473,
+        65,
+        497,
+        91
+      ],
+      "kind": 2,
+      "vk": 187,
+      "parameter": 0,
+      "slot": 73
+    },
+    {
+      "id": 27,
+      "name": "Backspace",
+      "rect": [
+        509,
+        65,
+        565,
+        91
+      ],
+      "kind": 2,
+      "vk": 8,
+      "parameter": 0,
+      "slot": 79
+    },
+    {
+      "id": 28,
+      "name": "Delete",
+      "rect": [
+        512,
+        21,
+        536,
+        47
+      ],
+      "kind": 2,
+      "vk": 46,
+      "parameter": 0,
+      "slot": 78
+    },
+    {
+      "id": 29,
+      "name": "B right",
+      "rect": [
+        299,
+        193,
+        323,
+        219
+      ],
+      "kind": 2,
+      "vk": 66,
+      "parameter": 0,
+      "slot": 94
+    },
+    {
+      "id": 30,
+      "name": "Home",
+      "rect": [
+        607,
+        64,
+        631,
+        90
+      ],
+      "kind": 2,
+      "vk": 36,
+      "parameter": 0,
+      "slot": 85
+    },
+    {
+      "id": 31,
+      "name": "Tab",
+      "rect": [
+        33,
+        100,
+        75,
+        126
+      ],
+      "kind": 2,
+      "vk": 9,
+      "parameter": 0,
+      "slot": 2
+    },
+    {
+      "id": 32,
+      "name": "Q",
+      "rect": [
+        85,
+        102,
+        109,
+        128
+      ],
+      "kind": 2,
+      "vk": 81,
+      "parameter": 0,
+      "slot": 8
+    },
+    {
+      "id": 33,
+      "name": "W",
+      "rect": [
+        120,
+        104,
+        144,
+        130
+      ],
+      "kind": 2,
+      "vk": 87,
+      "parameter": 0,
+      "slot": 14
+    },
+    {
+      "id": 34,
+      "name": "E",
+      "rect": [
+        154,
+        109,
+        178,
+        135
+      ],
+      "kind": 2,
+      "vk": 69,
+      "parameter": 0,
+      "slot": 20
+    },
+    {
+      "id": 35,
+      "name": "R",
+      "rect": [
+        188,
+        114,
+        212,
+        140
+      ],
+      "kind": 2,
+      "vk": 82,
+      "parameter": 0,
+      "slot": 26
+    },
+    {
+      "id": 36,
+      "name": "T",
+      "rect": [
+        221,
+        121,
+        245,
+        147
+      ],
+      "kind": 2,
+      "vk": 84,
+      "parameter": 0,
+      "slot": 32
+    },
+    {
+      "id": 37,
+      "name": "Y",
+      "rect": [
+        292,
+        123,
+        316,
+        149
+      ],
+      "kind": 2,
+      "vk": 89,
+      "parameter": 0,
+      "slot": 38
+    },
+    {
+      "id": 38,
+      "name": "U",
+      "rect": [
+        325,
+        116,
+        349,
+        142
+      ],
+      "kind": 2,
+      "vk": 85,
+      "parameter": 0,
+      "slot": 44
+    },
+    {
+      "id": 39,
+      "name": "I",
+      "rect": [
+        360,
+        111,
+        384,
+        137
+      ],
+      "kind": 2,
+      "vk": 73,
+      "parameter": 0,
+      "slot": 50
+    },
+    {
+      "id": 40,
+      "name": "O",
+      "rect": [
+        394,
+        106,
+        418,
+        132
+      ],
+      "kind": 2,
+      "vk": 79,
+      "parameter": 0,
+      "slot": 56
+    },
+    {
+      "id": 41,
+      "name": "P",
+      "rect": [
+        428,
+        102,
+        452,
+        128
+      ],
+      "kind": 2,
+      "vk": 80,
+      "parameter": 0,
+      "slot": 62
+    },
+    {
+      "id": 42,
+      "name": "[",
+      "rect": [
+        463,
+        100,
+        487,
+        126
+      ],
+      "kind": 2,
+      "vk": 219,
+      "parameter": 0,
+      "slot": 68
+    },
+    {
+      "id": 43,
+      "name": "]",
+      "rect": [
+        498,
+        98,
+        522,
+        124
+      ],
+      "kind": 2,
+      "vk": 221,
+      "parameter": 0,
+      "slot": 74
+    },
+    {
+      "id": 44,
+      "name": "\\",
+      "rect": [
+        532,
+        98,
+        573,
+        124
+      ],
+      "kind": 2,
+      "vk": 220,
+      "parameter": 0,
+      "slot": 80
+    },
+    {
+      "id": 45,
+      "name": "PgUp",
+      "rect": [
+        607,
+        98,
+        631,
+        124
+      ],
+      "kind": 2,
+      "vk": 33,
+      "parameter": 0,
+      "slot": 86
+    },
+    {
+      "id": 46,
+      "name": "CapsLock",
+      "rect": [
+        27,
+        135,
+        75,
+        161
+      ],
+      "kind": 2,
+      "vk": 20,
+      "parameter": 0,
+      "slot": 3
+    },
+    {
+      "id": 47,
+      "name": "A",
+      "rect": [
+        86,
+        136,
+        110,
+        162
+      ],
+      "kind": 2,
+      "vk": 65,
+      "parameter": 0,
+      "slot": 9
+    },
+    {
+      "id": 48,
+      "name": "S",
+      "rect": [
+        121,
+        138,
+        145,
+        164
+      ],
+      "kind": 2,
+      "vk": 83,
+      "parameter": 0,
+      "slot": 15
+    },
+    {
+      "id": 49,
+      "name": "D",
+      "rect": [
+        155,
+        143,
+        179,
+        169
+      ],
+      "kind": 2,
+      "vk": 68,
+      "parameter": 0,
+      "slot": 21
+    },
+    {
+      "id": 50,
+      "name": "F",
+      "rect": [
+        189,
+        149,
+        213,
+        175
+      ],
+      "kind": 2,
+      "vk": 70,
+      "parameter": 0,
+      "slot": 27
+    },
+    {
+      "id": 51,
+      "name": "G",
+      "rect": [
+        223,
+        156,
+        247,
+        182
+      ],
+      "kind": 2,
+      "vk": 71,
+      "parameter": 0,
+      "slot": 33
+    },
+    {
+      "id": 52,
+      "name": "H",
+      "rect": [
+        307,
+        155,
+        331,
+        181
+      ],
+      "kind": 2,
+      "vk": 72,
+      "parameter": 0,
+      "slot": 39
+    },
+    {
+      "id": 53,
+      "name": "J",
+      "rect": [
+        341,
+        148,
+        365,
+        174
+      ],
+      "kind": 2,
+      "vk": 74,
+      "parameter": 0,
+      "slot": 45
+    },
+    {
+      "id": 54,
+      "name": "K",
+      "rect": [
+        376,
+        143,
+        400,
+        169
+      ],
+      "kind": 2,
+      "vk": 75,
+      "parameter": 0,
+      "slot": 51
+    },
+    {
+      "id": 55,
+      "name": "L",
+      "rect": [
+        410,
+        139,
+        434,
+        165
+      ],
+      "kind": 2,
+      "vk": 76,
+      "parameter": 0,
+      "slot": 57
+    },
+    {
+      "id": 56,
+      "name": ";",
+      "rect": [
+        446,
+        135,
+        470,
+        161
+      ],
+      "kind": 2,
+      "vk": 186,
+      "parameter": 0,
+      "slot": 63
+    },
+    {
+      "id": 57,
+      "name": "'",
+      "rect": [
+        480,
+        132,
+        504,
+        158
+      ],
+      "kind": 2,
+      "vk": 222,
+      "parameter": 0,
+      "slot": 69
+    },
+    {
+      "id": 58,
+      "name": "Enter",
+      "rect": [
+        515,
+        132,
+        581,
+        158
+      ],
+      "kind": 2,
+      "vk": 13,
+      "parameter": 0,
+      "slot": 81
+    },
+    {
+      "id": 59,
+      "name": "PgDn",
+      "rect": [
+        607,
+        131,
+        631,
+        157
+      ],
+      "kind": 2,
+      "vk": 34,
+      "parameter": 0,
+      "slot": 87
+    },
+    {
+      "id": 60,
+      "name": "LShift",
+      "rect": [
+        19,
+        168,
+        85,
+        194
+      ],
+      "kind": 2,
+      "vk": 160,
+      "parameter": 0,
+      "slot": 4
+    },
+    {
+      "id": 61,
+      "name": "Z",
+      "rect": [
+        96,
+        171,
+        120,
+        197
+      ],
+      "kind": 2,
+      "vk": 90,
+      "parameter": 0,
+      "slot": 10
+    },
+    {
+      "id": 62,
+      "name": "X",
+      "rect": [
+        130,
+        174,
+        154,
+        200
+      ],
+      "kind": 2,
+      "vk": 88,
+      "parameter": 0,
+      "slot": 16
+    },
+    {
+      "id": 63,
+      "name": "C",
+      "rect": [
+        164,
+        179,
+        188,
+        205
+      ],
+      "kind": 2,
+      "vk": 67,
+      "parameter": 0,
+      "slot": 22
+    },
+    {
+      "id": 64,
+      "name": "V",
+      "rect": [
+        199,
+        185,
+        223,
+        211
+      ],
+      "kind": 2,
+      "vk": 86,
+      "parameter": 0,
+      "slot": 28
+    },
+    {
+      "id": 65,
+      "name": "B left",
+      "rect": [
+        232,
+        193,
+        256,
+        219
+      ],
+      "kind": 2,
+      "vk": 1,
+      "parameter": 83886080,
+      "slot": 34
+    },
+    {
+      "id": 66,
+      "name": "N",
+      "rect": [
+        332,
+        186,
+        356,
+        212
+      ],
+      "kind": 2,
+      "vk": 78,
+      "parameter": 0,
+      "slot": 40
+    },
+    {
+      "id": 67,
+      "name": "M",
+      "rect": [
+        366,
+        178,
+        390,
+        204
+      ],
+      "kind": 2,
+      "vk": 77,
+      "parameter": 0,
+      "slot": 46
+    },
+    {
+      "id": 68,
+      "name": ",",
+      "rect": [
+        400,
+        172,
+        424,
+        198
+      ],
+      "kind": 2,
+      "vk": 188,
+      "parameter": 0,
+      "slot": 52
+    },
+    {
+      "id": 69,
+      "name": ".",
+      "rect": [
+        435,
+        170,
+        459,
+        196
+      ],
+      "kind": 2,
+      "vk": 190,
+      "parameter": 0,
+      "slot": 58
+    },
+    {
+      "id": 70,
+      "name": "/",
+      "rect": [
+        470,
+        168,
+        494,
+        194
+      ],
+      "kind": 2,
+      "vk": 191,
+      "parameter": 0,
+      "slot": 64
+    },
+    {
+      "id": 71,
+      "name": "RShift",
+      "rect": [
+        506,
+        167,
+        554,
+        193
+      ],
+      "kind": 2,
+      "vk": 161,
+      "parameter": 0,
+      "slot": 70
+    },
+    {
+      "id": 72,
+      "name": "Up",
+      "rect": [
+        574,
+        173,
+        598,
+        199
+      ],
+      "kind": 2,
+      "vk": 38,
+      "parameter": 0,
+      "slot": 82
+    },
+    {
+      "id": 73,
+      "name": "Space2",
+      "rect": [
+        312,
+        223,
+        388,
+        249
+      ],
+      "kind": 2,
+      "vk": 64,
+      "parameter": 0,
+      "slot": 95
+    },
+    {
+      "id": 74,
+      "name": "LCtrl",
+      "rect": [
+        19,
+        203,
+        51,
+        229
+      ],
+      "kind": 2,
+      "vk": 162,
+      "parameter": 0,
+      "slot": 5
+    },
+    {
+      "id": 75,
+      "name": "LWin",
+      "rect": [
+        84,
+        204,
+        116,
+        230
+      ],
+      "kind": 2,
+      "vk": 91,
+      "parameter": 0,
+      "slot": 11
+    },
+    {
+      "id": 76,
+      "name": "LAlt",
+      "rect": [
+        128,
+        208,
+        160,
+        234
+      ],
+      "kind": 2,
+      "vk": 164,
+      "parameter": 0,
+      "slot": 17
+    },
+    {
+      "id": 77,
+      "name": "Space",
+      "rect": [
+        173,
+        221,
+        237,
+        247
+      ],
+      "kind": 2,
+      "vk": 32,
+      "parameter": 0,
+      "slot": 35
+    },
+    {
+      "id": 78,
+      "name": "RAlt",
+      "rect": [
+        402,
+        208,
+        434,
+        234
+      ],
+      "kind": 2,
+      "vk": 165,
+      "parameter": 0,
+      "slot": 53
+    },
+    {
+      "id": 79,
+      "name": "FN",
+      "rect": [
+        443,
+        203,
+        467,
+        229
+      ],
+      "kind": 2,
+      "vk": 250,
+      "parameter": 0,
+      "slot": 59
+    },
+    {
+      "id": 80,
+      "name": "RCtrl",
+      "rect": [
+        478,
+        201,
+        502,
+        227
+      ],
+      "kind": 2,
+      "vk": 163,
+      "parameter": 0,
+      "slot": 65
+    },
+    {
+      "id": 81,
+      "name": "Left",
+      "rect": [
+        540,
+        207,
+        564,
+        233
+      ],
+      "kind": 2,
+      "vk": 37,
+      "parameter": 0,
+      "slot": 77
+    },
+    {
+      "id": 82,
+      "name": "Down",
+      "rect": [
+        574,
+        206,
+        598,
+        232
+      ],
+      "kind": 2,
+      "vk": 40,
+      "parameter": 0,
+      "slot": 83
+    },
+    {
+      "id": 83,
+      "name": "Right",
+      "rect": [
+        608,
+        207,
+        632,
+        233
+      ],
+      "kind": 2,
+      "vk": 39,
+      "parameter": 0,
+      "slot": 89
+    },
+    {
+      "id": 84,
+      "name": "Wheel",
+      "rect": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "kind": 9,
+      "vk": 1,
+      "parameter": 117440541,
+      "slot": 84
+    },
+    {
+      "id": 85,
+      "name": "Up",
+      "rect": [
+        269,
+        151,
+        285,
+        161
+      ],
+      "kind": 2,
+      "vk": 38,
+      "parameter": 0,
+      "slot": 23
+    },
+    {
+      "id": 86,
+      "name": "Left",
+      "rect": [
+        253,
+        168,
+        263,
+        184
+      ],
+      "kind": 2,
+      "vk": 37,
+      "parameter": 0,
+      "slot": 41
+    },
+    {
+      "id": 87,
+      "name": "Down",
+      "rect": [
+        271,
+        190,
+        287,
+        200
+      ],
+      "kind": 2,
+      "vk": 40,
+      "parameter": 0,
+      "slot": 29
+    },
+    {
+      "id": 88,
+      "name": "Right",
+      "rect": [
+        294,
+        169,
+        304,
+        185
+      ],
+      "kind": 2,
+      "vk": 39,
+      "parameter": 0,
+      "slot": 47
+    },
+    {
+      "id": 89,
+      "name": "Enter",
+      "rect": [
+        271,
+        170,
+        285,
+        182
+      ],
+      "kind": 2,
+      "vk": 13,
+      "parameter": 0,
+      "slot": 71
+    }
+  ],
+  "source_sha256": "89c5624bfe320ecce3ecb7c1ccbbb0bb02ef745ba093ac9d9e4683ae3561bf09",
+  "ini_sha256": "cb0f426aae89fe1491c1cac4f20780f84665e6b5c8b137a780d2937984392047"
+}

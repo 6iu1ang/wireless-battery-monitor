@@ -1,0 +1,26 @@
+[
+  {
+    "url": "https://github.com/libratbag/libratbag/blob/master/src/hidpp20.c",
+    "snapshot_file": "hidpp20.c",
+    "sha256": "9f3b8dffafbff67fd104a0cd975203d9568f7a98586f5109d420e8e2981f60da",
+    "license": "MIT",
+    "retrieved": "2026-10-25T14:24:28.485781+08:00",
+    "usage": "Static protocol reference only; not executed or imported"
+  },
+  {
+    "url": "https://github.com/libratbag/libratbag/blob/master/src/hidpp20.h",
+    "snapshot_file": "hidpp20.h",
+    "sha256": "43818a95450a0995ceba80616a389d0a4a8be0e67773fda18a2b702e61e06906",
+    "license": "MIT",
+    "retrieved": "2026-10-25T14:24:28.486792+08:00",
+    "usage": "Static protocol reference only; not executed or imported"
+  },
+  {
+    "url": "https://github.com/libratbag/libratbag/blob/master/src/driver-hidpp20.c",
+    "snapshot_file": "driver-hidpp20.c",
+    "sha256": "91da838e613e7ea8a1437343bb3daf68a4667592d9ed54739e1336e7352ce5bf",
+    "license": "MIT",
+    "retrieved": "2026-10-25T14:24:28.486792+08:00",
+    "usage": "Static protocol reference only; not executed or imported"
+  }
+]

@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+runtime/
+.venv/
+venv/
+build/
+dist/
+*.egg-info/
+.env
+.env.*
+!.env.example
+diagnostics/*.json
+diagnostics/*.png
+device_inventory.md

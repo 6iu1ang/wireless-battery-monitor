@@ -1,0 +1,41 @@
+{
+  "retrieved_on": "2026-10-21 Asia/Shanghai",
+  "note": "Targeted read-only source snapshots. No reference program was executed. Unlicensed viewer is for local review only.",
+  "sources": [
+    {
+      "key": "viewer",
+      "repo": "yszyszysz233/2.4G-battery-viewer",
+      "url": "https://github.com/yszyszysz233/2.4G-battery-viewer",
+      "branch": "main",
+      "commit": "f0e983e88900592237c7df9ae6b80b9dbeb3020b",
+      "tree_sha": "f0e983e88900592237c7df9ae6b80b9dbeb3020b",
+      "license": "No license file found"
+    },
+    {
+      "key": "logitray",
+      "repo": "Ithilias/logitray",
+      "url": "https://github.com/Ithilias/logitray",
+      "branch": "master",
+      "commit": "8036fe8b60373dc7859228fcfaa928327151f3f3",
+      "tree_sha": "8036fe8b60373dc7859228fcfaa928327151f3f3",
+      "license": "MIT"
+    },
+    {
+      "key": "monitor",
+      "repo": "Recopec/LogitechBatteryMonitor",
+      "url": "https://github.com/Recopec/LogitechBatteryMonitor",
+      "branch": "main",
+      "commit": "486ad26638f3512bcff171c94abbc689b73311ff",
+      "tree_sha": "486ad26638f3512bcff171c94abbc689b73311ff",
+      "license": "GPL-2.0"
+    },
+    {
+      "key": "solaar",
+      "repo": "pwr-Solaar/Solaar",
+      "url": "https://github.com/pwr-Solaar/Solaar",
+      "branch": "master",
+      "commit": "e7304c4c451cc9bb4f206a914844525e67856a28",
+      "license": "GPL-2.0-or-later"
+    }
+  ]
+}
